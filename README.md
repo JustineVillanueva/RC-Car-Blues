@@ -6,9 +6,9 @@ This RC Car Project is a WiFi-controlled embedded systems vehicle built using an
 ---
 
 ## Components Used
-- ESP8266 (NodeMCU / Wemos D1 mini)  
+- ESP8266 (NodeMCU) 
 - L298N Motor Driver Module  
-- 2x DC Geared Motors  
+- 4 - N20 DC Geared Motors  
 - 2S 18650 Battery Pack  
 - Chassis with wheels  
 - Jumper wires  
