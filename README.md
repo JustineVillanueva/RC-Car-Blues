@@ -1,7 +1,7 @@
 # RC CAR PROJECT
 
 ## Introduction / Overview
-The RC Car Project is a WiFi-controlled embedded systems vehicle built using an ESP8266 microcontroller and an L298N motor driver. It enables real-time wireless control through a simple web interface, making it suitable for learning robotics, motor control, and IoT-based systems.
+This RC Car Project is a WiFi-controlled embedded systems vehicle built using an ESP8266 microcontroller and an L298N motor driver. It enables real-time wireless control through a simple web interface, making it suitable for learning robotics, motor control, and IoT-based systems.
 
 ---
 
@@ -30,6 +30,17 @@ The ESP8266 acts as the central controller, hosting a web server that receives u
 
 ---
 
+## RC Car Pictorial Diagram
+<details>
+  <summary>RC Car: Blues</summary>
+  
+![RC Car BLues](Images/RC_Car_pictorial.jpg)
+
+
+</details>
+
+---
+
 ## RC Car Pictures
 <details>
   <summary>RC Car: Blues</summary>
@@ -45,3 +56,4 @@ The ESP8266 acts as the central controller, hosting a web server that receives u
 ![RC Car BLues](Images/RC_Car_lside.jpg)
 
 </details>
+
