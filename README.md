@@ -16,10 +16,8 @@ This RC Car Project is a WiFi-controlled embedded systems vehicle built using an
 ---
 
 ## Key Features
-- Wireless control via WiFi (Access Point mode)  
-- Web-based interface (no app required)  
-- Forward, backward, left, right, and stop control  
-- PWM speed control support  
+- Wireless control via WiFi
+- Web-based control interface  
 - Expandable for sensors and automation  
 - Battery-powered mobile system  
 
